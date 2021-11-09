@@ -1,0 +1,19 @@
+// colors
+$primary-color: red;
+$secondary-color: green;
+
+// spacing
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+// borders & shadows
+$base-border: 1px solid #ddd;
+$base-border-radius: 20px;
+$base-box-shadow: 5px 5px 5px #e2e2e2;
+
+// font sizes
+$base-font-size: 1rem;
+$font-size-sm: $base-font-size * 0.7;
+$font-size-lg: $base-font-size * 1.5;
+$font-size-xlg: $base-font-size * 2;
+$font-size-xxlg: $base-font-size * 3;
