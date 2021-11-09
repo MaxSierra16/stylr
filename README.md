@@ -1,3 +1,3 @@
 # Stylr
 
-Simple CSS library build with SASS to style personal projects and my future blog.
+Simple CSS utility class library built with SASS to style personal projects and my future blog.
